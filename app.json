@@ -14,13 +14,13 @@
         "value": ""},
 
     "API_ID": {"description": "Get this value from https://my.telegram.org",
-     "value": ""},
+     "value": "17250424"},
 
     "API_HASH": {"description": "Get this value from https://my.telegram.org",
-       "value": ""},
+       "value": "753bc98074d420ef57ddf7eb1513162b"},
 
     "OWNER_ID": {"description": "Your Telegram ID",
-       "value": ""},
+       "value": "1910739734"},
 
     "PREMIUM_USER": {"description": "If you are a telegram premium user then set this True",
        "value": "False"},
